@@ -1,2 +1,2 @@
-# ocp4-lazy-scripts
-A collection of script for OpenShift 4
+# Lazy scripts for OpenShift 4
+A collection of scripts for OpenShift 4.
